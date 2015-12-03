@@ -1,2 +1,1 @@
-# live-nightly
-Tools for scheduled building of livecd based tools.
+livecd projects, livecd appliances, tools for building them on a schedule
